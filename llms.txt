@@ -1,0 +1,8 @@
+# Equity Edge Discount Codes
+
+This dataset tracks historical deal observations for Equity Edge from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (20%)
+Works any time on all Equity Edge challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/equity-edge/
