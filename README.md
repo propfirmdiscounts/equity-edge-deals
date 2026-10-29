@@ -91,4 +91,4 @@ This repository tracks all historical deals for **Equity Edge** published on Pro
 
 ---
 
-Last synced: 2026-10-29T02:05:25Z (auto, hourly)
+Last synced: 2026-10-29T06:31:18Z (auto, hourly)
