@@ -52,29 +52,29 @@ Total deals tracked: **41**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-08-03 | 30% Off Flagship Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/) |
-| 2026-05-31 | Eid Mubarak Special: 100K Instant Funded Account For $65 | Only $65 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-100k-instant-65/) |
-| 2026-05-30 | Eid Mubarak Promotion: 200K Instant Funded Account For $159 | Only $159 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-200k-instant-159/) |
-| 2026-05-29 | Eid Mubarak Offer: 300K Instant Funded Account For $299 | Only $299 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-300k-instant-299/) |
+| 2026-05-31 | Eid Mubarak Special: 100K Instant Funded Account For $65 | Only $65 | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-100k-instant-65/) |
+| 2026-05-30 | Eid Mubarak Promotion: 200K Instant Funded Account For $159 | Only $159 | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-200k-instant-159/) |
+| 2026-05-29 | Eid Mubarak Offer: 300K Instant Funded Account For $299 | Only $299 | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-eid-mubarak-300k-instant-299/) |
 | 2026-04-23 | 35% Discount on Flagship Challenge Pricing | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-35-percent-off-flagship-accounts/) |
-| 2026-02-14 | Valentine's Special: 300K Instant Funding for $309 | Only $309 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-300k-instant-309/) |
-| 2026-02-14 | Valentine's Promo: 200K Instant Funding for $169 | Only $169 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-200k-instant-169/) |
-| 2026-02-14 | Valentine's Deal: 100K Instant Funding for $69 | Only $69 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-100k-instant-69/) |
+| 2026-02-14 | Valentine's Special: 300K Instant Funding for $309 | Only $309 | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-300k-instant-309/) |
+| 2026-02-14 | Valentine's Promo: 200K Instant Funding for $169 | Only $169 | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-200k-instant-169/) |
+| 2026-02-14 | Valentine's Deal: 100K Instant Funding for $69 | Only $69 | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-valentines-100k-instant-69/) |
 | 2026-02-12 | $300K Instant Account Reduced to $379 Purchase Price | -$520 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-300k-instant-account-379/) |
 | 2026-01-19 | Limited Deal: $300K Instant Account for $315 | Only $315 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-instant-account-315/) |
 | 2026-01-08 | Launch Special: $300K Instant Account for $369 Entry Fee | Only $369 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-300k-instant-account-launch-special/) |
-| 2026-01-01 | New Year Offer: 50% OFF Challenges + Free Instant Account | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-new-year-offer-50-off-challenges-free-instant-account/) |
+| 2026-01-01 | New Year Offer: 50% OFF Challenges + Free Instant Account | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-new-year-offer-50-off-challenges-free-instant-account/) |
 
 ### 2025 (29 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-30 | Holiday Promotion: $100K Instant Funded Account for $64 | Only $64 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-holiday-promotion-100k-instant-funded/) |
-| 2025-12-22 | Finish 2025 Offer: 55% OFF Challenges + Free Instant Account | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-finish-2025-offer/) |
+| 2025-12-30 | Holiday Promotion: $100K Instant Funded Account for $64 | Only $64 | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-holiday-promotion-100k-instant-funded/) |
+| 2025-12-22 | Finish 2025 Offer: 55% OFF Challenges + Free Instant Account | 55% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-finish-2025-offer/) |
 | 2025-12-02 | December Offer: 50% OFF All Accounts + Free Instant Account | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-december-50-off-free-instant-account/) |
-| 2025-12-01 | Cyber Monday Sale: 50% Off + Free Instant Account | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-cyber-monday-50-off-free-instant-account/) |
-| 2025-11-24 | Black Friday: 25K Instant Account for Only $29 | Only $29 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-25k-instant-account-29/) |
-| 2025-11-18 | Equity Edge Black Friday Deals & BOGO | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-50-off-bogo-deal/) |
-| 2025-11-17 | Black Friday — 50% OFF + Free Instant Account | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-early-black-friday-50-off-free-instant-account/) |
+| 2025-12-01 | Cyber Monday Sale: 50% Off + Free Instant Account | 50% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-cyber-monday-50-off-free-instant-account/) |
+| 2025-11-24 | Black Friday: 25K Instant Account for Only $29 | Only $29 | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-25k-instant-account-29/) |
+| 2025-11-18 | Equity Edge Black Friday Deals & BOGO | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-black-friday-50-off-bogo-deal/) |
+| 2025-11-17 | Black Friday — 50% OFF + Free Instant Account | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-early-black-friday-50-off-free-instant-account/) |
 | 2025-11-08 | 2nd Anniversary — 50K Instant Account for $40 (Ends Sunday 11:59 PM UK) | ONLY $40 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-2nd-anniversary-50k-instant-40-ends-sunday-uk/) |
 | 2025-11-08 | 2nd Anniversary — 100K Instant Account for $73 (Ends Sunday 11:59 PM UK) | ONLY $73 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-2nd-anniversary-100k-instant-73-ends-sunday-uk/) |
 | 2025-10-27 | Pay Day: 30% OFF Flagship Challenges (Up to 1:100 Leverage, No News Restriction, 2-Min Rule Removed) + Free Instant Account | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/equity-edge/equity-edge-pay-day-30-off-flagship-challenges-100-leverage-free-instant/) |
