@@ -19,7 +19,7 @@ tags:
 
 # Equity Edge Discount Code
 
-As of 2026-08-03, the verified Equity Edge discount code is **PFD** — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-08-03, the verified Equity Edge discount code is PFD — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Equity Edge Ltd., proudly based in Saint Lucia, is a dynamic prop trading firm dedicated to empowering traders with the virtual capital, tools, and insights they need to thrive in today’s fast-paced markets. Established with a vision to democratize trading, we provide access to simulated accounts ranging from $2,500 to $100,000, enabling our community to test strategies and maximize profits without personal financial risk. Our innovative platform, backed by cutting-edge technology, supports real-time data analysis and seamless execution, making us a go-to choice for serious traders.
 > What sets us apart is our strategic partnership with top social media influencers, who bring market trends and opportunities directly to our audience. Through engaging content on X, Instagram, TikTok, YouTube, and beyond, our affiliates amplify our reach, connecting with a global network of aspiring traders. We foster a transparent, trader-first culture, ensuring clear communication and fair practices—our commitment to integrity is at the heart of every deal.
