@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: equityedge
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: equity-edge
   DEALSTORE_ID: 46
   FIRM_NAME: Equity Edge
