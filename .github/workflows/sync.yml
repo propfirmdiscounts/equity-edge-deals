@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: equity-edge-discount-codes
+  HF_NAMESPACE: equityedge
+  HF_REPO_NAME: equity-edge-deals
   FIRM_SLUG: equity-edge
   DEALSTORE_ID: 46
   FIRM_NAME: Equity Edge
