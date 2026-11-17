@@ -1,4 +1,4 @@
-# Equity Edge Discount Codes
+# Equity Edge Discount Code & Deals History
 
 This dataset tracks historical deal observations for Equity Edge from PropFirmDiscount.com.
 

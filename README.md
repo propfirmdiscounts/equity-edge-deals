@@ -1,4 +1,4 @@
-# Equity Edge Discount Code & Deal History
+# Equity Edge Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Equity Edge discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "30% Off Flagship Evaluation Accounts".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified Equity Edge discount code is PFD — 20% OFF, 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-08-03
 - Trustpilot: [4.2/5 (2671 reviews)](https://www.trustpilot.com/review/equityedge.io)
-- GitHub repository: [Equity Edge Deals Repository](https://github.com/propfirmdiscounts/equity-edge-deals)
+- GitHub repository: [Equity Edge Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/equity-edge-deals)
 - Activate: [Activate Equity Edge Discount Code](https://propfirmdiscount.com/go/equityedge)
 - Firm page: [Equity Edge Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/equity-edge/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -28,7 +28,7 @@ As of November 2026, the verified Equity Edge discount code is PFD — 20% OFF, 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Equity Edge Deal Page](https://propfirmdiscount.com/deals/equity-edge/equity-edge-30-discount-flagship/)
 
-## Equity Edge Discount Code & Deals FAQ
+## Equity Edge Discount Code & Deals History FAQ
 
 **What is the Equity Edge discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Equity Edge Deal History
+## Equity Edge Deals History
 
 Total deals tracked: **41**
 
@@ -101,7 +101,7 @@ Total deals tracked: **41**
 
 ---
 
-## About the Equity Edge Deals Dataset
+## About the Equity Edge Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Equity Edge** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -109,7 +109,7 @@ This repository mirrors every deal **Equity Edge** has published on PropFirmDisc
 - Prop firm profile: [Equity Edge Profile](https://propfirmdiscount.com/prop-firm/equity-edge/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Equity Edge Deal Dataset: Field Definitions
+## Equity Edge Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
